@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practical1</string>
+    <string name="rollInstructionText">Hello World!</string>
+</resources>
